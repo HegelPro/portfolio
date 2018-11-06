@@ -5,7 +5,9 @@
 	* [Manager](http://93.171.10.54:8080/support-widget/manager/)
 2. [Игра морской бой](https://github.com/HegelPro/BattleShip). Посмотреть можно по ссылкам:
 	* [BattleShip](http://93.171.10.54:8080/battleShip)
-3. [Яндекс дом](https://github.com/HegelPro/ya). Посмотреть можно по ссылкам:
+3. [Макет](https://github.com/HegelPro/makeup). Посмотреть можно по ссылкам:
+	* [Desktop version](http://93.171.10.54:3000)
+4. [Яндекс дом](https://github.com/HegelPro/ya). Посмотреть можно по ссылкам:
 	* [Desktop version](http://93.171.10.54:8080/yandex/desktop)
 
 ## Автор:
