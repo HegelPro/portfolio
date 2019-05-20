@@ -1,8 +1,8 @@
 ## Список проектов
 
 ### Старые проекты:
-1. [2048](https://github.com/HegelPro/chatWidget). Посмотреть можно по ссылкам:
-	* [react-2048](http://134.209.230.51:8080/)
+1. [2048-react](https://github.com/HegelPro/chatWidget). Посмотреть можно по ссылкам:
+	* [2048](http://134.209.230.51:8080/)
 
 ### Старые проекты:
 1. [Чат виджет](https://github.com/HegelPro/chatWidget). Посмотреть можно по ссылкам:
