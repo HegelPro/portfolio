@@ -1,14 +1,18 @@
-## Список проектов:
+## Список проектов
 
+### Старые проекты:
+1. [2048](https://github.com/HegelPro/chatWidget). Посмотреть можно по ссылкам:
+	* [2048](http://134.209.230.51:8080/)
+
+### Старые проекты:
 1. [Чат виджет](https://github.com/HegelPro/chatWidget). Посмотреть можно по ссылкам:
-	* [Widget](http://93.171.10.54:8080/support-widget/widget/)
-	* [Manager](http://93.171.10.54:8080/support-widget/manager/)
+	* [Widget](http://134.209.230.51:8081/client/)
+	* [Manager](http://134.209.230.51:8081/manager/)
 2. [Игра морской бой](https://github.com/HegelPro/BattleShip). Посмотреть можно по ссылкам:
-	* [BattleShip](http://93.171.10.54:8080/battleShip)
-3. [Макет](https://github.com/HegelPro/makeup). Посмотреть можно по ссылкам:
-	* [Makeup](http://93.171.10.54:3000)
+	* [BattleShip](http://134.209.230.51:8081/battle-ship/)
+3. [Макет](https://github.com/HegelPro/makeup).
 4. [Яндекс дом](https://github.com/HegelPro/ya). Посмотреть можно по ссылкам:
-	* [Desktop version](http://93.171.10.54:8080/yandex/desktop)
+	* [Desktop version](http://134.209.230.51:8081/ya-home/dist/prod/)
 
 ## Автор:
 
