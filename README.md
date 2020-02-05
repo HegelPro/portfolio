@@ -12,7 +12,7 @@
 	* [BattleShip](http://194.146.38.143:8080/battle-ship/)
 3. [Макет](https://github.com/HegelPro/makeup).
 4. [Яндекс дом](https://github.com/HegelPro/ya). Посмотреть можно по ссылкам:
-	* [Desktop version](HegelPro.github.io/yandex-shri/desktop)
+	* [Desktop version](https://hegelpro.github.io/yandex-shri/desktop/)
 
 ## Автор:
 
