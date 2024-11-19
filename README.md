@@ -5,13 +5,14 @@
 
 1. [Интернет магазин на основе Telegram bot api](https://github.com/HegelPro/tg-store). Посмотреть можно по ссылкам:
 	* [Telegram shop bot](https://t.me/hegeltest_bot)
+2. [2048-react](https://github.com/HegelPro/2048-react)(Проект был написан давно). Посмотреть можно по ссылкам:
+	* [2048-react](http://178.163.84.142:8080/)
 
 ### Beta пет проекты
 
 1. [Чат бот, который выдает статистику активности в чате](https://github.com/HegelPro/tg-store). Посмотреть можно по ссылкам:
 	* [Telegram group statistic bot](https://t.me/HegelChatEnjoyerBot)
-2. [2048-react](https://github.com/HegelPro/2048-react). Посмотреть можно по ссылкам:
-	* [2048-react](http://178.163.84.142:8080/)
+
 
 ### Старые пет проекты
 
