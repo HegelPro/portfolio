@@ -1,17 +1,24 @@
 ## Список проектов
 
-### Новые проекты:
-1. [2048-react](https://github.com/HegelPro/2048-react). (Главный проект) Посмотреть можно по ссылкам:
-	* [2048](http://104.197.112.220:8080/)
-2. [Бот для составления квестов в VK](https://github.com/HegelPro/question_bot). Посмотреть можно по ссылкам:
-	* [quest-bot](https://vk.com/club196513488)
 
-### Старые проекты:
-1. [Чат виджет](https://github.com/HegelPro/chatWidget). Посмотреть можно по ссылкам:
-	* [Widget](http://104.197.112.220:8081/chat-client/)
-	* [Manager](http://104.197.112.220:8081/chat-manager/)
-2. [Игра морской бой](https://github.com/HegelPro/BattleShip). Посмотреть можно по ссылкам:
-	* [BattleShip](http://104.197.112.220:8081/battle-ship/)
+### Главные пет проекты
+
+1. [Интернет магазин на основе Telegram bot api](https://github.com/HegelPro/tg-store). Посмотреть можно по ссылкам:
+	* [Telegram shop bot](https://t.me/hegeltest_bot)
+
+### Beta пет проекты
+
+1. [Чат бот, который выдает статистику активности в чате](https://github.com/HegelPro/tg-store). Посмотреть можно по ссылкам:
+	* [Telegram group statistic bot](https://t.me/HegelChatEnjoyerBot)
+2. [2048-react](https://github.com/HegelPro/2048-react). Посмотреть можно по ссылкам:
+	* [2048-react](http://178.163.84.142:8080/)
+
+### Старые пет проекты
+
+1. [Бот для составления квестов в VK](https://github.com/HegelPro/question_bot). Посмотреть можно по ссылкам:
+	* [quest-bot](https://vk.com/club196513488)
+2. [Чат виджет](https://github.com/HegelPro/chatWidget)
+3. [Игра морской бой](https://github.com/HegelPro/BattleShip)
 
 ## Автор:
 
