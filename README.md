@@ -10,7 +10,7 @@
 
 ### Beta пет проекты
 
-1. [Чат бот, который выдает статистику активности в чате](https://github.com/HegelPro/tg-store). Посмотреть можно по ссылкам:
+1. [Чат бот, который выдает статистику активности в чате](https://github.com/HegelPro/tg-group-bot). Посмотреть можно по ссылкам:
 	* [Telegram group statistic bot](https://t.me/HegelChatEnjoyerBot)
 
 
